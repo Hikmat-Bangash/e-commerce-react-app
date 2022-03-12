@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.rateicon{
+    font-size: smaller;
+    width: 50px;
+    text-size-adjust: 10px;
+}
